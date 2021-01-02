@@ -15,7 +15,7 @@ https://marcelo-goncalves50.outsystemscloud.com/OSBookings_MGP/Login
 
 ![](https://github.com/celogp/OutSystems/blob/main/screenshot/Captura%20de%20tela%202021-01-02%20203528.png)
 ![](https://github.com/celogp/OutSystems/blob/main/screenshot/Captura%20de%20tela%202021-01-02%20203558.png)
-![](https://github.com/celogp/OutSystems/blob/main/screenshot/Captura%20de%20tela%202021-01-02%20203627.png
+![](https://github.com/celogp/OutSystems/blob/main/screenshot/Captura%20de%20tela%202021-01-02%20203627.png)
 
 https://marcelo-goncalves50.outsystemscloud.com/OSMDb_MGP/Login
 #
