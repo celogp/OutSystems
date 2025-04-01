@@ -1,8 +1,12 @@
 # OutSystems
-Nos estudos foram aplicados conceitos de Build Block, módulos, consumo de API externa "Via Cep", escrita de Query para agregate, adição de registros em lote, filtros dinâmicos em consultas e telas de detalhes.
-
+#
+#Caso de estudo para aplicação em vaga
+OBjetivo : Criar uma aplicação web para clinica de Pet, onde possam cadastrar pacientes, tutores, realizar agendamentos e registrar prontuários.
+![](https://github.com/celogp/OutSystems/blob/main/screenshot/ProjetoPet.gif)
 
 #Caso de estudo para orçamentos em empresas de Marmorarias
+Nos estudos foram aplicados conceitos de Build Block, módulos, consumo de API externa "Via Cep", escrita de Query para agregate, adição de registros em lote, filtros dinâmicos em consultas e telas de detalhes.
+
 ![](https://github.com/celogp/OutSystems/blob/1a84765cb5b5bbeba829d2ccb363a13afebea8a9/screenshot/MyOSMarble-2021-04-25-00-02-47.gif)
 
 https://marcelo-goncalves50.outsystemscloud.com/OSMarble/Login
